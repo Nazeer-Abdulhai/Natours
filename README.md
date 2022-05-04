@@ -1,2 +1,2 @@
 # Natours
- Responsive website about natures, coded with HTML/SASS
+ Responsive website about Natures, coded with HTML/SASS
